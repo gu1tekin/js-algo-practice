@@ -16,6 +16,7 @@ As I continue to learn JavaScript, I understand the importance of practicing alg
 Below is a list of algorithm problems I've solved so far, along with links to their respective solution files:
 
 1. [Problem 1: 2621.Sleep | leetcode.com](../js-algo-practice/problems/leetcode/Problem1-2621-Sleep.js)
+2. [Problem 2: 2D Arrays | hackerrank.com](../js-algo-practice/problems/hackerrank/Problem2_2dArrays.js)
 
 Feel free to explore the solutions and provide feedback or suggestions for improvement. If you have any questions or want to collaborate on solving algorithms, don't hesitate to reach out!
 
